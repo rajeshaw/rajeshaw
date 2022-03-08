@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajesh @rajeshaw
-- 👀 I’m interested in Machine Learning, NLP, Computer Vision, ChatBots, Trading
-- 🌱 I’m currently finshing up AI/ML program from UT Austin
+- 👀 I’m interested in Full Stack Development, C#, JavaScript, React, Machine Learning, NLP, Computer Vision, ChatBots, Trading
+- 🌱 I have done AI/ML program from UT Austin
 - 💞️ I’m looking to collaborate on business ideas and products using AI and enhancing ChatBot functionality to be more user friendly 
 - 📫 Reach me r.awasthi@gmail.com
 
